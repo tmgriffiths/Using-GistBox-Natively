@@ -1,4 +1,4 @@
-Using [GistBox](app.gistboxapp.com) Natively on MacOSX
+Using [GistBox](https://app.gistboxapp.com/) Natively on MacOSX
 ======================================================
 
 ## 1. Download and install [Fluid](http://fluidapp.com/)
@@ -21,4 +21,4 @@ Once you've done that you can click ‘sign in with github’ and you should sig
 
 ## Gist away!
 
-[tmgriffiths](https://twitter.com/tmgriffiths)
+Guide by [tmgriffiths](https://twitter.com/tmgriffiths).
