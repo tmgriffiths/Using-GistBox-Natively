@@ -1,5 +1,7 @@
-Using [GistBox](https://app.gistboxapp.com/) Natively on MacOSX
-======================================================
+Using [GistBox](https://gistboxapp.com/) Natively on MacOSX
+===========================================================
+
+So you've discovered [Gists](https://help.github.com/articles/about-gists/) for organising and sharing (pseudo) code snippets, *and* you've discovered the beautiful [GistBox](https://gistboxapp.com/) as an interface for your gists. You feel like you just want it as a standalone app though, well...
 
 ## 1. Download and install [Fluid](http://fluidapp.com/)
 Download [fluid](http://fluidapp.com/) to create a Site Specific Browser (SSB) (The free version is fine, but the paid version lets you anchor it in your menubar!). Fluid is an application that makes any web-app you commonly use into a standalone app. For those inclined you can install fluid via [Homebrew cask](https://caskroom.github.io/) with `brew cask install fluid`
